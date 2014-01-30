@@ -1,5 +1,6 @@
 package WebService::VerifyEmail;
 
+use 5.006;
 use Moo;
 use Net::HTTP::Tiny qw(http_get);
 use JSON qw(decode_json);

@@ -1,5 +1,8 @@
 Revision history for Perl module WebService::VerifyEmail
 
+0.02 2014-01-30
+    - specified min version of perl as 5.6.0
+
 0.01 2013-09-05
     - first version released to CPAN
 
