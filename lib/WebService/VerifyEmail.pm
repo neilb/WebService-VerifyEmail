@@ -96,7 +96,7 @@ L<Mail::CheckUser>, L<Mail::EXPN>, L<Net::validMX>, L<Email::Valid::Loose>.
 
 =head1 REPOSITORY
 
-L<https://github.com/neilbowers/WebService-VerifyEmail>
+L<https://github.com/neilb/WebService-VerifyEmail>
 
 =head1 AUTHOR
 

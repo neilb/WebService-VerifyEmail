@@ -1,5 +1,9 @@
 Revision history for Perl module WebService::VerifyEmail
 
+0.03 2015-10-23 NEILB
+    - Updated repo URL after changing my github username
+    - Added [MetaJSON] to dist.ini so META.json will be in the release
+
 0.02 2014-01-30
     - specified min version of perl as 5.6.0
 
